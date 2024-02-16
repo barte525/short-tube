@@ -2,7 +2,7 @@ The console application takes a link to a YouTube video as input and provides th
 
 - Bart summarizer CNN (https://huggingface.co/philschmid/bart-large-cnn-samsum)
 - Facebook Bart summarizer CNN (https://huggingface.co/facebook/bart-large-cnn)
-- sbert based summarizer												
+- Sbert based summarizer												
 
 If a particular film is already in the video_transcripts folder, it is not downloaded. The application provides the option to clean the folder.
 
