@@ -12,6 +12,9 @@ To set up the project
 3) Build the container using the command: docker-compose up --build
 
 To use the application, enter the container, navigate to the workspace folder, and execute the program with the command:
+
 python3 run.py
+
 To run tests, execute the command:
+
 python3 -m unittest tests/models_test.py
