@@ -6,7 +6,7 @@ Console aplication takes a link to a YouTube video as an input and provides the 
 
 If a particular film is already in the video_transcripts folder, it is not downloaded. The application provides the option to clean the folder.
 
-To set up the project
+To set up the project you have to have device with nvidia GPU and:
 1) Download the repository
 2) Have Docker installed
 3) Build the container using the command: docker-compose up --build
