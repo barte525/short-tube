@@ -1,0 +1,17 @@
+yt-dlp==2023.3.4
+openai-whisper
+openai
+sentence-transformers
+git+https://github.com/huggingface/transformers
+tokenizers
+tensorflow
+keras
+replicate
+bertopic
+bertopic[visualization]
+bert-extractive-summarizer
+nvidia-tensorrt
+git+https://github.com/nficano/pytube.git
+httpx
+httpcore
+yt_dlp
